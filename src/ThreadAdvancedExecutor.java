@@ -9,6 +9,6 @@ public class ThreadAdvancedExecutor implements Executor {
     }
 
     public void dummyShit(){
-        System.out.println("dummyShitCalled");
+        System.out.println("I don't want these stupid things!");
     }
 }
