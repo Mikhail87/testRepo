@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C://BlockingQueue/BlockingQueue.iml" filepath="C://BlockingQueue/BlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue.iml" />
     </modules>
   </component>
 </project>
