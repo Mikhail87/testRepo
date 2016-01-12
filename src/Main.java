@@ -39,5 +39,7 @@ public class Main {
         Future<?> future = threadPoolExecutor.submit(new WorkerThread("submitNewwThread"));
 
         System.out.println("completed: " + threadPoolExecutor.getCompletedTaskCount());
+
+        System.out.println("co11mpleted");
     }
 }
